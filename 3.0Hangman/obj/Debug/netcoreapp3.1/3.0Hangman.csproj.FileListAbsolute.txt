@@ -1,0 +1,13 @@
+C:\Users\aggfe\Desktop\myproject\3.0Hangman\3.0Hangman\bin\Debug\netcoreapp3.1\3.0Hangman.exe
+C:\Users\aggfe\Desktop\myproject\3.0Hangman\3.0Hangman\bin\Debug\netcoreapp3.1\3.0Hangman.deps.json
+C:\Users\aggfe\Desktop\myproject\3.0Hangman\3.0Hangman\bin\Debug\netcoreapp3.1\3.0Hangman.runtimeconfig.json
+C:\Users\aggfe\Desktop\myproject\3.0Hangman\3.0Hangman\bin\Debug\netcoreapp3.1\3.0Hangman.runtimeconfig.dev.json
+C:\Users\aggfe\Desktop\myproject\3.0Hangman\3.0Hangman\bin\Debug\netcoreapp3.1\3.0Hangman.dll
+C:\Users\aggfe\Desktop\myproject\3.0Hangman\3.0Hangman\bin\Debug\netcoreapp3.1\3.0Hangman.pdb
+C:\Users\aggfe\Desktop\myproject\3.0Hangman\3.0Hangman\obj\Debug\netcoreapp3.1\3.0Hangman.AssemblyInfoInputs.cache
+C:\Users\aggfe\Desktop\myproject\3.0Hangman\3.0Hangman\obj\Debug\netcoreapp3.1\3.0Hangman.AssemblyInfo.cs
+C:\Users\aggfe\Desktop\myproject\3.0Hangman\3.0Hangman\obj\Debug\netcoreapp3.1\3.0Hangman.csproj.CoreCompileInputs.cache
+C:\Users\aggfe\Desktop\myproject\3.0Hangman\3.0Hangman\obj\Debug\netcoreapp3.1\3.0Hangman.dll
+C:\Users\aggfe\Desktop\myproject\3.0Hangman\3.0Hangman\obj\Debug\netcoreapp3.1\3.0Hangman.pdb
+C:\Users\aggfe\Desktop\myproject\3.0Hangman\3.0Hangman\obj\Debug\netcoreapp3.1\3.0Hangman.genruntimeconfig.cache
+C:\Users\aggfe\Desktop\myproject\3.0Hangman\3.0Hangman\obj\Debug\netcoreapp3.1\3.0Hangman.csproj.AssemblyReference.cache

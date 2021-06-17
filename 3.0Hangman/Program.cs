@@ -27,9 +27,12 @@ namespace _3._0Hangman
                     Console.WriteLine("Failure!");
                 }
                 Console.ForegroundColor = ConsoleColor.White;
-                Console.WriteLine("Press enter to quit");
-                Console.ReadLine();
-                break;
+                Console.WriteLine("Press enter to quit or continue by typing your name and then press enter.");
+                string keepalive = Console.ReadLine();
+                if (keepalive.Equals(""))
+                    break;
+                else
+                    continue;
             } while (true);
         }//end of Main
 
